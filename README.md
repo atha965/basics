@@ -1,1 +1,1 @@
-# basics of using github
+# Basics of using github
